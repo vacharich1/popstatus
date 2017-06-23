@@ -114,7 +114,7 @@ if (!is_null($events['events'])) {
 						}
 						else
 						{
-								if($text == '##addroombyjay')
+								if($text == '@@addroombyjay')
 								{
 										$replyToken = $event['replyToken'];
 										$messages55 = ['type' => 'text','text' => $event['source']['groupId']];
