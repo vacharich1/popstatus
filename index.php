@@ -53,7 +53,8 @@ if (!is_null($events['events'])) {
 								$hoonname = substr($text, 1); // cut@
 								if($event['source']['userId'] == 'Ub5f45b12f0f8f8a3a08e5b52ebbcc96b')
 								{
-									$room='Cb6942ed51d87f590d8c289478f4b517d';
+									$room='Ub5f45b12f0f8f8a3a08e5b52ebbcc96b';
+									//$room='Cb6942ed51d87f590d8c289478f4b517d';
 								}
 								else
 								{
