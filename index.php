@@ -1,19 +1,19 @@
 ﻿<?php
 $access_token = 'W4sB4oWD7HpXgub7q/hkBXxjqeERSBRCehmMbJCSzjsH0umy/V93T5G0mN7tGtzq2cddAISUgS6ICjCHJnw0H/dyWn8NuAL2PzgaWx/wes9ycXZVy7LTn1XYCkuUss6kqe+efCRDWJgOl3ytJXFK/wdB04t89/1O/w1cDnyilFU=';
 
-/*$host= "sql12.freemysqlhosting.net";
+$host= "sql12.freemysqlhosting.net";
 $db = "sql12175146";
 $CHAR_SET = "charset=utf8"; 
 
 $username = "sql12175146";    
-$password = "YhyzMTpHep"; */
+$password = "YhyzMTpHep"; 
 
-$host= "sql6.freemysqlhosting.net";
+/*$host= "sql6.freemysqlhosting.net";
 $db = "sql6162161";
 $CHAR_SET = "charset=utf8"; 
 
 $username = "sql6162161";    
-$password = "XWhdUiDJPk"; 
+$password = "XWhdUiDJPk"; */
 
 	
 
